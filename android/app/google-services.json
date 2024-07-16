@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747098834948",
+    "project_id": "tradewatch-7206a",
+    "storage_bucket": "tradewatch-7206a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747098834948:android:574ed2052c88cbf6714d51",
+        "android_client_info": {
+          "package_name": "com.example.figma_design2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCRTHJour2Ow4oYBadxLs0h8uGQ-uHmGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
